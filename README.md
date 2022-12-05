@@ -14,6 +14,7 @@ We do not own the images used in this project.
 To visit the GitHub repository, go to https://github.com/ABehniwal/UNO
 
 To play the game, go to https://uno-fse.herokuapp.com/
+Now hosted on https://uno-nr5m.onrender.com/ due to server issues.
 
 ## Rules
 - You need a minimum of 2 players to play and can play with a maximum of 10 players.
